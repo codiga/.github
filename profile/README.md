@@ -32,7 +32,7 @@ Codiga mission is to help developers write better code, faster. This repository 
 
 ---
 
----
+
 
 <h2 align="center"> Features</h2>
 
@@ -47,7 +47,7 @@ The automated code reviews works on GitHub, GitLab and Bitbucket. It flags any c
 
 <br/><br/>
 
----
+
 
 ---
 
@@ -56,7 +56,7 @@ The automated code reviews works on GitHub, GitLab and Bitbucket. It flags any c
 <img src="https://img.shields.io/badge/Slack-@codigahq.svg?logo=slack" /></a></center>
 <br/><br/>
 
----
+
 
 ---
 
@@ -69,7 +69,6 @@ If you would like to report a critical issue or contact us privately, please use
 
 <br/><br/>
 
----
 ---
 
 <h2 align="center"> Information</h2>
@@ -84,4 +83,3 @@ If you would like to report a critical issue or contact us privately, please use
 
 <br/><br/>
 
----
