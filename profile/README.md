@@ -26,7 +26,7 @@
 
 <h2 align="center"> 📜 About us </h2>
 
-Codiga mission is to help developers write better code, faster. This repository is a placeholder that contains information about the project and is a placeholder for bugreports and general information about the product.
+Codiga mission is to help developers write better code, faster. This repository is a placeholder that contains information about the project and is a placeholder for bugreports and general information about the organization.
 
 <br/><br/>
 
