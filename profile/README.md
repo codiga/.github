@@ -1,34 +1,25 @@
 <!-- markdownlint-disable-next-line -->
 <h3 align="center">
 
-
+  
 
 </h3>
 
-<h1 align="center">
-  <img src="https://github.com/codiga/.github/blob/main/assets/Banner.png" width="80%" />
-</h1>
+[![Codiga - Write better code, faster.](https://github.com/codiga/.github/blob/newDesign/assets/banner_hero.png)](https://www.codiga.io)
 
-<h3 align="center">
-🎉 Welcome to Codiga 🎉
-</h3>
 
-<div align="center">
 <a href="https://twitter.com/getcodiga"><img src="https://img.shields.io/badge/Twitter-getcodiga-blue?logo=twitter&logoColor=blue&color=blue"/></a>
 <a href="https://www.linkedin.com/company/codigahq/"><img src="https://img.shields.io/badge/LinkedIn-Codiga-blue?logo=linkedin&logoColor=blue&color=darkcyan" /></a>
 <a href="https://join.slack.com/t/codigahq/shared_invite/zt-9hvmfwie-9BUVFwZDwvpIGlkHv2mzYQ" alt="Slack">
-<img src="https://img.shields.io/badge/Slack-@codigahq.svg?logo=slack" /></a>
+<img src="https://img.shields.io/badge/Slack-@codigahq.slack.com-purple?logo=slack" /></a>
+[![Join our Discord server!](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.codiga.io)
   
-  [![Join our Discord server!](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.codiga.io)
-  
-</div>
+
 
 <br>
 
----
-
-<h2 align="center"> 📜 About us </h2>
-
+## ✨ Welcome
+Welcome to the [Codiga's Open Source Ecosystem](https://www.codiga.io/)<br/>
 Codiga mission is to help developers write better code, faster. This repository is a placeholder that contains information about the project and is a placeholder for bugreports and general information about the organization.
 
 <br/><br/>
