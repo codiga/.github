@@ -1,10 +1,3 @@
-<!-- markdownlint-disable-next-line -->
-<h3 align="center">
-
-  
-
-</h3>
-
 [![Codiga - Write better code, faster.](https://github.com/codiga/.github/blob/newDesign/assets/banner_hero.png)](https://www.codiga.io)
 
 
@@ -12,7 +5,7 @@
 <a href="https://www.linkedin.com/company/codigahq/"><img src="https://img.shields.io/badge/LinkedIn-Codiga-blue?logo=linkedin&logoColor=blue&color=darkcyan" /></a>
 <a href="https://join.slack.com/t/codigahq/shared_invite/zt-9hvmfwie-9BUVFwZDwvpIGlkHv2mzYQ" alt="Slack">
 <img src="https://img.shields.io/badge/Slack-@codigahq.slack.com-purple?logo=slack" /></a>
-[![Join our Discord server!](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.codiga.io)
+[![Join our Discord server!](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](http://discord.codiga.io)
   
 
 
@@ -20,15 +13,9 @@
 
 ## ✨ Welcome
 Welcome to the [Codiga's Open Source Ecosystem](https://www.codiga.io/)<br/>
-Codiga mission is to help developers write better code, faster. This repository is a placeholder that contains information about the project and is a placeholder for bugreports and general information about the organization.
+We help developers write better code, faster. Codiga Open Source Ecosystem focusses on building open-source devtools that help to work with our core product to fasten up developer's productivity.
 
-<br/><br/>
-
----
-
-
-
-<h2 align="center"> Features</h2>
+## 📑 Features
 
 ### Coding Assistant
 
@@ -39,40 +26,58 @@ The Codiga Coding Assistant helps users define and import safe and reusable bloc
 
 The automated code reviews works on GitHub, GitLab and Bitbucket. It flags any code violation in your code changes.
 
-<br/><br/>
+
+## 🌎 Join Codiga community
+To get involved with our community, please make sure you are familiar with [Codiga principles](https://www.codiga.io/blog/codiga-principles-values/)
+
+1. **Join our Discord** <br/>
+[Join our Discord](https://discord.codiga.io)
+If you have a question on how to use Codiga, want to contribute, or simply want to say hello 👋🏾, feel free to chat with us in Discord.
+We're nice people. 🙂
+
+2. **First Awesome Recipe** <br/>
+[Sign up at Codiga](https://app.codiga.io/login) and create your first awesome recipe 🎉. Share with us on discord, to win some surprises. 🎁 
+
+3. **Codiga Blogs** <br/>
+[Read our Blog](https://www.codiga.io/blog/) Get to know more about Codiga and various opportunities, competitions happening at Codiga 
 
 
-
----
-
-<h2 align="center"> Join our Community </h2>
-<center> You can join our Slack community using </center>  <br> <br><center> <a href="https://join.slack.com/t/codigahq/shared_invite/zt-9hvmfwie-9BUVFwZDwvpIGlkHv2mzYQ" alt="Slack">
-<img src="https://img.shields.io/badge/Slack-@codigahq.svg?logo=slack" /></a></center>
-<br/><br/>
+4. **Codiga Tutorials**<br/>
+Stuck? Go through our tutorials on our [Youtube](https://www.youtube.com/channel/UCbJIY9DBVajfTcRmhWgErqg/featured)
 
 
+## 👩🏽‍💻 Contribute to Codiga
+First of all, thanks for getting involved! ✨
 
----
+There are many awesome ways to contribute to the Codiga Open Source Ecosystem. (Code isn't the only way to help out! ❤️) The below table gives you an idea of how contributions are recognized in the project.
 
-<h2 align="center"> Report an issue</h2>
+
+Emoji/Type | Represents | Emoji/Type | Represents | Emoji/Type | Represents |
+:---: | :---: | :---: | :---: | :---: | :---:
+🐛 <br /> `bug` | Bug reports | 📝 <br /> `blog` | Blogposts | 💻 <br /> `code` | Code |
+📖 <br /> `doc` | Documentation | 🎨 <br /> `design` | Design | 💡 <br /> `example` | Examples |
+🤔 <br /> `ideas` | Ideas & Planning | 🚧 <br /> `maintenance` | Maintenance | 💬 <br /> `question` | Answering Questions | 
+👀 <br /> `review` | Reviewed Pull Requests | 📢 <br /> `talk` | Talks | 📹 <br /> `video` | Videos |
+
+To figure out a great `first GitHub issue` to work on, [join our discord](https://discord.codiga.io), get your member role by reacting to `rules` and visit the `how-to-contribute` 🙂 channel. This channel is specifically designed for supporting all community questions on getting started as a contributor.
+
+
+## Report an issue
 
 You can report an issue using the [GitHub issue tracker](https://github.com/codiga/codiga/issues).
 
 If you would like to report a critical issue or contact us privately, please use the email hello@codiga.io.
 
 
-<br/><br/>
+## 🔗 Useful Links
 
----
-
-<h2 align="center"> Information</h2>
-
- - [Main website (codiga.io)](https://www.codiga.io)
+ - [Codiga Website (codiga.io)](https://www.codiga.io)
  - [Codiga Platform](https://app.codiga.io)
  - [Documentation](https://doc.codiga.io)
+ - [Discord](https://discord.codiga.io)
  - [Slack Community](https://join.slack.com/t/codeinspector/shared_invite/enQtNzQ0MTk0OTIxNTU4LWY0MTUxNTE3MDY0M2MyZmE0ODFhNTkwN2JmNjliMzYxMDc1MDA2MmVjMzE3ZWU0ZTY5NzBjMjExZWNhMTIzN2Q)
  - [Youtube channel](https://www.youtube.com/channel/UCbJIY9DBVajfTcRmhWgErqg)
-
+ - [Codiga Blogs](https://codiga.io/blog)
 
 
 <br/><br/>
