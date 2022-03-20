@@ -40,7 +40,7 @@ We're nice people. 🙂
 [Read our Blog](https://www.codiga.io/blog/) Get to know more about Codiga and various opportunities, competitions happening at Codiga 
 
 
-4. **Codiga Docs and Tutorials**<br/>
+4. **Codiga Doc and Tutorials**<br/>
 View [Doc](https://doc.codiga.io/) and [Tutorials](https://www.youtube.com/channel/UCbJIY9DBVajfTcRmhWgErqg/featured) 
 
 <br/>
