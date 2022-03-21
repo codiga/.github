@@ -1,4 +1,4 @@
-[![Codiga - Write better code, faster.](https://github.com/codiga/.github/blob/newDesign/assets/banner_hero.png)](https://www.codiga.io)
+[![Codiga - Write better code, faster.](https://github.com/codiga/.github/blob/newDesign/assets/hero_banner.png)](https://www.codiga.io)
 
 [![Join our Discord server!](https://img.shields.io/badge/Discord-@discord.codiga.io-7289DA?logo=discord&logoColor=white)](http://discord.codiga.io)
 <a href="https://twitter.com/getcodiga"><img src="https://img.shields.io/badge/Twitter-getcodiga-blue?logo=twitter&logoColor=blue&color=blue"/></a>
