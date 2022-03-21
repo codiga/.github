@@ -1,16 +1,14 @@
 [![Codiga - Write better code, faster.](https://github.com/codiga/.github/blob/newDesign/assets/hero_banner.png)](https://www.codiga.io)
 
 [![Join our Discord server!](https://img.shields.io/badge/Discord-@discord.codiga.io-7289DA?logo=discord&logoColor=white)](http://discord.codiga.io)
-<a href="https://twitter.com/getcodiga"><img src="https://img.shields.io/badge/Twitter-getcodiga-blue?logo=twitter&logoColor=blue&color=blue"/></a>
-<a href="https://www.linkedin.com/company/codigahq/"><img src="https://img.shields.io/badge/LinkedIn-Codiga-blue?logo=linkedin&logoColor=blue&color=darkcyan" /></a>
-<a href="https://join.slack.com/t/codigahq/shared_invite/zt-9hvmfwie-9BUVFwZDwvpIGlkHv2mzYQ" alt="Slack">
-<img src="https://img.shields.io/badge/Slack-@codigahq.slack.com-purple?logo=slack" /></a>
-
+<a href="https://twitter.com/getcodiga"><img src="https://img.shields.io/badge/Twitter-@getcodiga-blue?logo=twitter&logoColor=blue&color=blue"/></a>
+<a href="https://www.linkedin.com/company/codigahq/"><img src="https://img.shields.io/badge/LinkedIn-@CodigaHQ-lightgray.svg" /></a>
+[![YouTube](https://img.shields.io/badge/YouTube-@codiga-red.svg)](https://www.youtube.com/channel/UCbJIY9DBVajfTcRmhWgErqg)
 <br/>
 
 ## ✨ Welcome
-Welcome to the [Codiga's Open Source Ecosystem](https://www.codiga.io/)<br/>
-We help developers write better code, faster. Codiga Open Source Ecosystem focusses on building open-source devtools that help to work with our core product to fasten up developer's productivity.
+Welcome to the [Codiga](https://www.codiga.io/)<br/>
+We help developers write better code, faster. Codiga focusses on building devtools that help to work with our core product to fasten up developer's productivity. We have open-sourced few of our devtools, which are open for contributors.
 
 ## 📑 Features
 
@@ -48,7 +46,7 @@ View [Doc](https://doc.codiga.io/) and [Tutorials](https://www.youtube.com/chann
 ## 👩🏽‍💻 Contribute to Codiga
 First of all, thanks for getting involved! ✨
 
-There are many awesome ways to contribute to the Codiga Open Source Ecosystem. (Code isn't the only way to help out! ❤️) The below table gives you an idea of how contributions are recognized in the project.
+There are many awesome ways to contribute to the Codiga. (Code isn't the only way to help out! ❤️) The below table gives you an idea of how contributions are recognized in the project.
 
 
 Emoji/Type | Represents | Emoji/Type | Represents | Emoji/Type | Represents |
@@ -76,10 +74,6 @@ If you would like to report a critical issue or contact us privately, please use
  - [Codiga Platform](https://app.codiga.io)
  - [Documentation](https://doc.codiga.io)
  - [Discord](https://discord.codiga.io)
- - [Slack Community](https://join.slack.com/t/codeinspector/shared_invite/enQtNzQ0MTk0OTIxNTU4LWY0MTUxNTE3MDY0M2MyZmE0ODFhNTkwN2JmNjliMzYxMDc1MDA2MmVjMzE3ZWU0ZTY5NzBjMjExZWNhMTIzN2Q)
  - [Youtube channel](https://www.youtube.com/channel/UCbJIY9DBVajfTcRmhWgErqg)
  - [Codiga Blogs](https://codiga.io/blog)
  - [Codiga principles](https://www.codiga.io/blog/codiga-principles-values/)
-
-<br/><br/>
-
