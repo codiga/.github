@@ -8,7 +8,7 @@
 
 ## ✨ Welcome
 Welcome to the [Codiga](https://www.codiga.io/)<br/>
-We help developers write better code, faster. Codiga focusses on building devtools that help to work with our core product to fasten up developer's productivity. We have open-sourced few of our devtools, which are open for contributors.
+We help developers write better code, faster. Here at [Codiga](https://www.codiga.io/), we focus on building devtools that help to work with our core product to fasten up developer's productivity. We have open-sourced few of our devtools, which are open for contributors.
 
 ## 📑 Features
 
