@@ -1,4 +1,4 @@
-[![Codiga - Write better code, faster.](../assets/banner_hero.png)](https://www.codiga.io)
+[![Codiga - Write better code, faster.](https://github.com/codiga/.github/blob/main/assets/banner_hero.png?raw=true)](https://www.codiga.io)
 
 <a href="https://twitter.com/getcodiga"><img src="https://img.shields.io/badge/Twitter-@getcodiga-blue?logo=twitter&logoColor=blue&color=blue"/></a>
 <a href="https://www.linkedin.com/company/codigahq/"><img src="https://img.shields.io/badge/LinkedIn-@CodigaHQ-lightgray.svg" /></a>
